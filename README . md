@@ -1,0 +1,22 @@
+# BookNest
+
+A book club mobile app built with Kotlin, Firebase and Cloudinary. Members share books with a cover photo, book name, author and caption, and search the shared books by book name, author or username.
+
+## Features
+- Login and Create Account with validation (unique email and username, password rules)
+- Feed with RecyclerView cards, newest first, with live search
+- Navigation drawer with Create Post, Your Posts, Reset Password and Logout
+- Reset Password (old password is verified first)
+- Create Post with image preview, caption counter and Cloudinary upload
+- Your Posts: change image, edit caption, delete with confirmation
+
+## Tech
+Kotlin, Android Studio, Firebase Authentication, Firebase Realtime Database, Cloudinary, Glide
+
+## Setup
+1. Clone the repository and open it in Android Studio.
+2. Create a Firebase project, add an Android app with package `com.example.booknest`, and place `google-services.json` inside the `app/` folder.
+3. In Firebase, enable Email/Password sign-in and create a Realtime Database.
+4. Create a Cloudinary account and an unsigned upload preset.
+5. Put your cloud name, API key and preset name in `CloudinaryHelper.kt`.
+6. Sync Gradle and run the app.
