@@ -72,17 +72,18 @@ The app does not use Firebase Storage. Cloudinary returns an image link and a pu
 
 ## Screenshots
 
-| Login | Create Account | Feed with Search |
+| Logo | Login | Create Account |
 |:---:|:---:|:---:|
-| ![Login](screenshots/login.png) | ![Create Account](screenshots/create_account.png) | ![Feed](screenshots/feed.png) |
+| <img width="115" height="111" alt="BookNest" src="https://github.com/user-attachments/assets/6bcf3983-3b18-4f93-8ea7-5c9a655e5ba1" /> | <img width="209" height="261" alt="login page" src="https://github.com/user-attachments/assets/c4849961-65f4-4247-ba1a-9f3f3014efc8" /> | <img width="213" height="332" alt="create account page" src="https://github.com/user-attachments/assets/58ab6787-c2cf-4809-8851-afe0e0d58c0f" /> |
 
-| Navigation Drawer | Reset Password | Create Post |
+| Feed (with search) | Navigation Drawer | Reset Password |
 |:---:|:---:|:---:|
-| ![Drawer](screenshots/drawer.png) | ![Reset Password](screenshots/reset_password.png) | ![Create Post](screenshots/create_post.png) |
+| <img width="216" height="361" alt="feed" src="https://github.com/user-attachments/assets/2971dc10-7aee-4115-bfbb-eaaa2b043c84" /> | <img width="202" height="317" alt="drawer" src="https://github.com/user-attachments/assets/13161454-f821-4e38-9e9d-3fddaa0422ea" /> | <img width="209" height="313" alt="reset password" src="https://github.com/user-attachments/assets/9e571a29-fcea-4af5-991e-5356f03a6800" /> |
 
-| Your Posts |
-|:---:|
-| ![Your Posts](screenshots/your_posts.png) |
+| Create Post | Your Posts | |
+|:---:|:---:|:---:|
+| <img width="138" height="290" alt="create post" src="https://github.com/user-attachments/assets/58949888-53d3-4c0a-9fc0-ccdf262ea416" /> | <img width="149" height="255" alt="your post" src="https://github.com/user-attachments/assets/2290e3ec-f51d-4592-a6a8-5f72d6c8d49b" /> | |
+
 
 ## Challenges and Solutions
 
@@ -130,7 +131,7 @@ Contributions are welcome. If you find an issue or have a suggestion, feel free 
 ## Author
 
 **Kamrun Nahar Prity**
-Roll: 2320461 | Batch: 232
+Roll: 2320461 Batch: 232
 Department of Computer Science & Engineering
 Course: Mobile Apps Development (CSE 0613-4145)
 
