@@ -1,7 +1,7 @@
 # BookNest - A Book Sharing App for Book Lovers
 
 <p align="center">
-  <img src="screenshots/logo.png" alt="BookNest Logo" width="150"/>
+  <img src="screenshots/BookNest.png" alt="BookNest Logo" width="150"/>
 </p>
 
 ## Objective
@@ -72,9 +72,9 @@ The app does not use Firebase Storage. Cloudinary returns an image link and a pu
 
 ## Screenshots
 
-| Logo | Login | Create Account |
-|:---:|:---:|:---:|
-| <img width="115" height="111" alt="BookNest" src="https://github.com/user-attachments/assets/6bcf3983-3b18-4f93-8ea7-5c9a655e5ba1" /> | <img width="209" height="261" alt="login page" src="https://github.com/user-attachments/assets/c4849961-65f4-4247-ba1a-9f3f3014efc8" /> | <img width="213" height="332" alt="create account page" src="https://github.com/user-attachments/assets/58ab6787-c2cf-4809-8851-afe0e0d58c0f" /> |
+ | Login | Create Account |
+|:---:|:---:|
+ | <img width="209" height="261" alt="login page" src="https://github.com/user-attachments/assets/c4849961-65f4-4247-ba1a-9f3f3014efc8" /> | <img width="213" height="332" alt="create account page" src="https://github.com/user-attachments/assets/58ab6787-c2cf-4809-8851-afe0e0d58c0f" /> |
 
 | Feed (with search) | Navigation Drawer | Reset Password |
 |:---:|:---:|:---:|
