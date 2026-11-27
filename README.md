@@ -131,11 +131,15 @@ Contributions are welcome. If you find an issue or have a suggestion, feel free 
 ## Author
 
 **Kamrun Nahar Prity**
-| Roll: 2320461 | Batch: 232 |
-| Department of Computer Science & Engineering |
-| Course: Mobile Apps Development (CSE 0613-4145) |
+Roll: 2320461
+Batch: 232
+Department of Computer Science & Engineering
+Course: Mobile Apps Development (CSE 0613-4145)
 
-Submitted to: Israt Tasnim Esha | Lecturer, Department of CSE
+**Submitted To:**
+**Israt Tasnim Esha**
+Lecturer, Department of CSE
+
 
 ## References
 
