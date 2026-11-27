@@ -130,9 +130,9 @@ Contributions are welcome. If you find an issue or have a suggestion, feel free 
 
 ## Author
 
-**Kamrun Nahar Prity**
-Roll: 2320461
-Batch: 232
+**adiba**
+Roll: 
+Batch: 
 Department of Computer Science & Engineering
 Course: Mobile Apps Development (CSE 0613-4145)
 
