@@ -131,15 +131,16 @@ Contributions are welcome. If you find an issue or have a suggestion, feel free 
 ## Author
 
 **Kamrun Nahar Prity**
-Roll: 2320461 Batch: 232
-Department of Computer Science & Engineering
-Course: Mobile Apps Development (CSE 0613-4145)
+| Roll: 2320461 | Batch: 232 |
+| Department of Computer Science & Engineering |
+| Course: Mobile Apps Development (CSE 0613-4145) |
 
-Submitted to: Israt Tasnim Esha, Lecturer, Department of CSE
+Submitted to: Israt Tasnim Esha | Lecturer, Department of CSE
 
 ## References
 
-- [Firebase Docs](https://firebase.google.com/docs)
-- [Cloudinary Docs](https://cloudinary.com/documentation)
-- [Kotlin for Android](https://developer.android.com/kotlin)
-- [Glide](https://github.com/bumptech/glide)
+1. GitHub Repository: https://github.com/kamrunnaharprity2005-stack/BookNest
+2. Firebase Documentation: https://firebase.google.com/docs
+3. Cloudinary Documentation: https://cloudinary.com/documentation
+4. Kotlin for Android: https://developer.android.com/kotlin
+5. Glide Library: https://github.com/bumptech/glide
